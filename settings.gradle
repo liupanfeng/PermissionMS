@@ -1,2 +1,3 @@
 rootProject.name = "PermissionMS"
 include ':app'
+include ':MSLibrary'
